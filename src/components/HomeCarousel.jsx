@@ -9,7 +9,7 @@ const HomeCarousel = () => {
         <div>
 
 
-          <img className="h-[90vh] object-cover rounded-md" src="https://i.pinimg.com/originals/37/cd/93/37cd9342417c0c486ae065bb5f6ebf82.jpg" />
+          <img className="h-[90vh] object-cover rounded-md" src="https://ik.imagekit.io/aksh/src/assets/HOME%20PAGE/img1.jpg?updatedAt=1732029242493" />
           {/* <p className="legend">Mobiles</p> */}
 
           <div className="absolute left-2 bottom-2 flex flex-col bg-white rounded-md">
@@ -33,7 +33,7 @@ const HomeCarousel = () => {
           </div>
         </div>
         <div>
-          <img className="h-[90vh] object-cover rounded-md" src="https://i.pinimg.com/originals/60/62/56/606256a22147ccd3dba7537c3961e9ae.gif" />
+          <img className="h-[90vh] object-cover rounded-md" src="https://ik.imagekit.io/aksh/src/assets/HOME%20PAGE/pic2.gif?updatedAt=1732029315436" />
           {/* <p className="legend">Laptops</p> */}
           <div className="absolute left-2 bottom-2 flex flex-col bg-white rounded-md">
             <div className="px-6 py-8 sm:p-10 sm:pb-6">
@@ -56,7 +56,7 @@ const HomeCarousel = () => {
           </div>
         </div>
         <div>
-          <img className="h-[90vh] object-cover  rounded-md" src="https://i.pinimg.com/originals/15/91/6e/15916ec9f913d329ae2e288e3e76b34f.gif" />
+          <img className="h-[90vh] object-cover  rounded-md" src="https://ik.imagekit.io/aksh/src/assets/HOME%20PAGE/pic1.gif?updatedAt=1731998898813" />
           {/* <p className="legend">TV</p> */}
           <div className="absolute left-2 bottom-2 flex flex-col bg-white rounded-md">
             <div className="px-6 py-8 sm:p-10 sm:pb-6">
@@ -79,7 +79,7 @@ const HomeCarousel = () => {
           </div>
         </div>
         <div>
-          <img className="h-[90vh] object-cover rounded-md" src="https://i.pinimg.com/originals/d4/83/31/d48331858bc326bf7db831351d8ca515.gif" />
+          <img className="https://ik.imagekit.io/aksh/src/assets/HOME%20PAGE/pic4.gif?updatedAt=1732029404558" />
           {/* <p className="legend">Laptops</p> */}
           <div className="absolute left-2 bottom-2 flex flex-col bg-white rounded-md">
             <div className="px-6 py-8 sm:p-10 sm:pb-6">
