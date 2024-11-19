@@ -17,7 +17,7 @@ const HomeCarousel = () => {
               <div className="grid items-center justify-center w-full grid-cols-1 text-left">
                 <div>
                   <h2 className="text-lg font-medium tracking-tighter text-gray-600 lg:text-3xl">
-                    Fashioned
+                    Fashioned shoe
                   </h2>
                 </div>
                 <div className="mt-6">
